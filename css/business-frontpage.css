@@ -26,7 +26,8 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('/img/Banner_1920x400px.png') center center no-repeat scroll;
+    /*background: url("/img/Banner_1920x400px.png") center center no-repeat scroll;*/
+    background-image: url(../img/Banner_1920x400px.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
